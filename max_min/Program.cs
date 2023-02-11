@@ -1,34 +1,17 @@
-﻿using System;
+﻿int firstNumber;
+int secondNumber;
+int max;
 
-public class MyProgram
+Console.WriteLine("Введите первое число");
+firstNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число");
+secondNumber = Convert.ToInt32(Console.ReadLine());
+if (firstNumber > secondNumber)
 {
-    public static void Main(string[] args)
-    {
-        int firstNumber;
-        int secondNumber;
-        int max;
-        
-        Console.WriteLine("Введите первое число");
-        firstNumber = (int) inputValue();
-        Console.WriteLine("Введите второе число");
-        secondNumber = (int) inputValue();
-        if (firstNumber > secondNumber)
-        {
-            max = firstNumber;
-        }
-        else
-        {
-            max = secondNumber;
-        }
-        Console.WriteLine(max);
-    }
-    
-    // .NET can only read single characters or entire lines from the
-    // console. The following function safely reads a double value.
-    private static double inputValue()
-    {
-        double result;
-        while (!double.TryParse(Console.ReadLine(), out result));
-        return result;
-    }
+    max = firstNumber;
 }
+else
+{
+    max = secondNumber;
+}
+Console.WriteLine("Максимальное число: " + max);
