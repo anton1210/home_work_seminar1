@@ -1,0 +1,15 @@
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\bin\Debug\net6.0\max_min.exe
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\bin\Debug\net6.0\max_min.deps.json
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\bin\Debug\net6.0\max_min.runtimeconfig.json
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\bin\Debug\net6.0\max_min.dll
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\bin\Debug\net6.0\max_min.pdb
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.csproj.AssemblyReference.cache
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.AssemblyInfoInputs.cache
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.AssemblyInfo.cs
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.dll
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\refint\max_min.dll
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.pdb
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\max_min.genruntimeconfig.cache
+D:\Учеба GB\Семинар С# (домашка)\Домашка к 1 семинару\max_min\obj\Debug\net6.0\ref\max_min.dll
